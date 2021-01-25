@@ -1,5 +1,8 @@
 # AndroidAPS
 
+## Important! 
+From version 2.8.2 and up it's no longer possible to use AAPS for people called 'Milan'..
+
 * Check the wiki: https://androidaps.readthedocs.io
 *  Everyone who’s been looping with AndroidAPS needs to fill out the form after 3 days of looping  https://docs.google.com/forms/d/14KcMjlINPMJHVt28MDRupa4sz4DDIooI4SrW0P3HSN8/viewform?c=0&w=1
 
